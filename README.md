@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="center">Language  &  Tools</h2>
+<h2 align="center">Skills  &  Tools</h2>
 
 ###
 
