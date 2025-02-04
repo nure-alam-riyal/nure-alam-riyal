@@ -6,8 +6,6 @@
 
 <h1 align="left">MD NURE ALAM RIYAL</h1>
 
-###
-
 <h3 align="left">Forntend Developer</h3>
 
 ###
