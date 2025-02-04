@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning mongoDB, express.js<br>🎯 Goals:  Full Stack Developer<br>🎲 Fun fact:  Sleeping</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning mongoDB,next.js<br>🎯 Goals:  Full Stack Developer<br>🎲 Fun fact:  Sleeping</p>
 
 ###
 
